@@ -1,0 +1,32 @@
+{
+  "name": "jobify",
+  "version": "1.0.0",
+  "description": "<img src=\"https://progress-bar.dev/20/?title=Done\" alt=\"Logo\"  height='30' >",
+  "main": "index.js",
+  "engines": {
+    "node": "16.x"
+  },
+  "scripts": {
+    "install-server": "npm install --prefix server",
+    "install-client": "npm install --force --prefix client",
+    "install": "npm run install-server && npm run install-client",
+    "server": "npm start --prefix server",
+    "client": "npm start --prefix client",
+    "start": "nodemon server.js",
+    "build-client": "npm run build --prefix client"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdrahmansoltan/Jobify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdrahmansoltan/Jobify/issues"
+  },
+  "homepage": "https://github.com/abdrahmansoltan/Jobify#readme",
+  "dependencies": {
+    "concurrently": "^7.2.1"
+  }
+}
