@@ -17,36 +17,10 @@
   </a>
 <br>
 <br>
-
-  <p align="center">
-  <a href="https://jobify-abdelrahman-soltan.up.railway.app/">View Demo</a>
-    ·
-    <a href="https://github.com/abdrahmansoltan/jobify/issues">Report Bug</a>
-  </p>
+  
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#features">Features</a></li>
-        <li><a href="#built-with">Built With</a></li>
-        <li><a href="#users">Users</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-        <li><a href="#ports-and-endpoints">Ports and EndPoints</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-  </ol>
-</details>
+
 
 <!-- ABOUT THE PROJECT -->
 
