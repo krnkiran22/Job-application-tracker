@@ -70,6 +70,4 @@ const start = async () => {
     console.log(error);
   }
 };
-start()
-
-export default start;
+start();
