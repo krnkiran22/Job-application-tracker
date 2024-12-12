@@ -5,14 +5,14 @@
     "version": 2,
     "builds": [
       {
-        "src": "populate.js", 
+        "src": "server.js", 
         "use": "@vercel/node"
       }
     ],
     "routes": [
       {
         "src": "/(.*)", 
-        "dest": "/populate.js"
+        "dest": "/server.js"
       }
     ]
   }
